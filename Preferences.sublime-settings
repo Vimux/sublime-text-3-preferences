@@ -11,6 +11,7 @@
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 4,
+	"enable_tab_scrolling": false,
 	"trim_trailing_white_space_on_save": true,
 	"folder_exclude_patterns":
 	[
